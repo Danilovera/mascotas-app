@@ -1,0 +1,78 @@
+{
+    "perros" :[
+        {
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978391/mascotas/Rocky_exqzmf.png",
+            "nombre":"Rocky",
+            "raza":"Rottweitler",
+            "edad" :"3 meses",
+            "ubicacion":"376 Hickory st",
+            "historia" : "Rocky es muy lindo pero no lo podemos tener mas",
+            "donador": "Maria Dolores"
+
+        },
+        {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978350/mascotas/papi_ieepp3.png",
+            "nombre":"Papi",
+            "raza":"Chihuahua",
+            "edad" :"5 meses",
+            "ubicacion":"876 Liberty st",
+            "historia" : "Papi es muy lindo y tierno pero por motivos de viaje se despide de nosotros",
+            "donador": "Jorge Mario"
+        },
+        {    "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978329/mascotas/chaster_wrn148.png",
+            "nombre":"Chester",
+            "raza":"Golden Retriever",
+            "edad" :"6 meses",
+            "ubicacion":"076 Nort Arlington st",
+            "historia" : "Chester es muy lindo y tierno pero por motivos de viaje se despide de nosotros",
+            "donador": "Diana Perdomo"
+        },
+        {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978355/mascotas/Pelusa_pgmzej.png",
+            "nombre":"Pelusa",
+            "raza":"Bichon frise",
+            "edad" :"6 meses",
+            "ubicacion":"476 jamaica st",
+            "historia" : "Pelusa es muy jugueton y activo pero por motivos economicos no podemos contar con el",
+            "donador": "Luis Eduardo"
+        }
+    ],
+
+    "gatos":[
+        {   
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978346/mascotas/Matilde_bibrvn.png",
+            "nombre":"Matilde",
+            "raza":"British Shorthair",
+            "edad" :"6 meses",
+            "ubicacion":"4140 Parker Allentown",
+            "historia" : "Matilde es el mejor Guarda espaldas,fue rescatada y ahora busca un hogar",
+            "donador": " Tarum Surrey"
+        },
+        {   
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978385/mascotas/Pelusag_juyf8k.png",
+            "nombre":"Pelusa",
+            "raza":"Birmano",
+            "edad" :"4 meses",
+            "ubicacion":"43 Clifton st ",
+            "historia" : "Pelusa es muy curioso y tierno, le gusta dormir con su amo",
+            "donador": "Rick Sanchez"
+        },
+        {   
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978340/mascotas/Kity_jz33dq.png",
+            "nombre":"kity",
+            "raza":"Bombay",
+            "edad" :"2 meses",
+            "ubicacion":"078 Grove st ",
+            "historia" : "Kity es muy lindo y tierno, es un tigre pequeno y busca una segunda oportunidad",
+            "donador": "Sebastian Sepulveda"
+        },
+        {   
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978318/mascotas/Bombon_wb2umy.png",
+            "nombre":"Bombon",
+            "raza":"Gato Americano",
+            "edad" :"7 meses",
+            "ubicacion":"5648 Orage nj  ",
+            "historia" : "Bombon es la mejor macota que podria existir pero mi hija sufre de los pulmopnes y es alegica a su pelo",
+            "donador": "Andres Quiroga"
+        }
+
+    ]
+}
