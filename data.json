@@ -7,7 +7,12 @@
             "edad" :"3 meses",
             "ubicacion":"376 Hickory st",
             "historia" : "Rocky es muy lindo pero no lo podemos tener mas",
-            "donador": "Maria Dolores"
+            "donador": "Maria Dolores",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140229/mascotas/images_bit3hk.png",
+            "genero": "Macho",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
+            "id":"1"
+
 
         },
         {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978350/mascotas/papi_ieepp3.png",
@@ -16,7 +21,11 @@
             "edad" :"5 meses",
             "ubicacion":"876 Liberty st",
             "historia" : "Papi es muy lindo y tierno pero por motivos de viaje se despide de nosotros",
-            "donador": "Jorge Mario"
+            "donador": "Jorge Mario",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140199/mascotas/images_qmjkn8.jpg",
+            "genero": "Macho",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
+            "id":"2"
         },
         {    "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978329/mascotas/chaster_wrn148.png",
             "nombre":"Chester",
@@ -24,7 +33,11 @@
             "edad" :"6 meses",
             "ubicacion":"076 Nort Arlington st",
             "historia" : "Chester es muy lindo y tierno pero por motivos de viaje se despide de nosotros",
-            "donador": "Diana Perdomo"
+            "donador": "Diana Perdomo",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140134/mascotas/images_lagm1z.jpg",
+            "genero": "Macho",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
+            "id":"3"
         },
         {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978355/mascotas/Pelusa_pgmzej.png",
             "nombre":"Pelusa",
@@ -32,7 +45,11 @@
             "edad" :"6 meses",
             "ubicacion":"476 jamaica st",
             "historia" : "Pelusa es muy jugueton y activo pero por motivos economicos no podemos contar con el",
-            "donador": "Luis Eduardo"
+            "donador": "Luis Eduardo",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140125/mascotas/images_zdrzxy.png",
+            "genero": "Hembra",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140733/mascotas/female_mveap0.png",
+            "id":"4"
         }
     ],
 
@@ -44,7 +61,11 @@
             "edad" :"6 meses",
             "ubicacion":"4140 Parker Allentown",
             "historia" : "Matilde es el mejor Guarda espaldas,fue rescatada y ahora busca un hogar",
-            "donador": " Tarum Surrey"
+            "donador": " Tarum Surrey",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140209/mascotas/images_xdlnc2.jpg",
+            "genero": "Hembra",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140733/mascotas/female_mveap0.png",
+            "id":"1"
         },
         {   
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978385/mascotas/Pelusag_juyf8k.png",
@@ -53,7 +74,11 @@
             "edad" :"4 meses",
             "ubicacion":"43 Clifton st ",
             "historia" : "Pelusa es muy curioso y tierno, le gusta dormir con su amo",
-            "donador": "Rick Sanchez"
+            "donador": "Rick Sanchez",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140423/mascotas/download_lw2fns.jpg",
+            "genero": "Hembra",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140733/mascotas/female_mveap0.png",
+            "id":"2"
         },
         {   
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978340/mascotas/Kity_jz33dq.png",
@@ -62,7 +87,11 @@
             "edad" :"2 meses",
             "ubicacion":"078 Grove st ",
             "historia" : "Kity es muy lindo y tierno, es un tigre pequeno y busca una segunda oportunidad",
-            "donador": "Sebastian Sepulveda"
+            "donador": "Sebastian Sepulveda",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140195/mascotas/images_yoh0dm.jpg",
+            "genero": "Macho",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
+            "id":"3"
         },
         {   
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978318/mascotas/Bombon_wb2umy.png",
@@ -71,7 +100,11 @@
             "edad" :"7 meses",
             "ubicacion":"5648 Orage nj  ",
             "historia" : "Bombon es la mejor macota que podria existir pero mi hija sufre de los pulmopnes y es alegica a su pelo",
-            "donador": "Andres Quiroga"
+            "donador": "Andres Quiroga",
+            "imgDonador":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140454/mascotas/download_elvqef.jpg",
+            "genero": "Macho",
+            "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
+            "id":"4"
         }
 
     ]
