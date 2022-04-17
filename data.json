@@ -1,6 +1,7 @@
 {
     "perros" :[
         {
+            "tipo":"perro",
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978391/mascotas/Rocky_exqzmf.png",
             "nombre":"Rocky",
             "raza":"Rottweitler",
@@ -15,7 +16,9 @@
 
 
         },
-        {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978350/mascotas/papi_ieepp3.png",
+        {  
+            "tipo":"perro",
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978350/mascotas/papi_ieepp3.png",
             "nombre":"Papi",
             "raza":"Chihuahua",
             "edad" :"5 meses",
@@ -27,7 +30,9 @@
             "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
             "id":"2"
         },
-        {    "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978329/mascotas/chaster_wrn148.png",
+        {   
+            "tipo":"perro",
+             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978329/mascotas/chaster_wrn148.png",
             "nombre":"Chester",
             "raza":"Golden Retriever",
             "edad" :"6 meses",
@@ -39,7 +44,9 @@
             "imgGenero":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1650140741/mascotas/male_afni6w.png",
             "id":"3"
         },
-        {   "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978355/mascotas/Pelusa_pgmzej.png",
+        {   
+            "tipo":"perro",
+            "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978355/mascotas/Pelusa_pgmzej.png",
             "nombre":"Pelusa",
             "raza":"Bichon frise",
             "edad" :"6 meses",
@@ -54,7 +61,7 @@
     ],
 
     "gatos":[
-        {   
+        {   "tipo":"gato",
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978346/mascotas/Matilde_bibrvn.png",
             "nombre":"Matilde",
             "raza":"British Shorthair",
@@ -68,6 +75,7 @@
             "id":"1"
         },
         {   
+            "tipo":"gato",
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978385/mascotas/Pelusag_juyf8k.png",
             "nombre":"Pelusa",
             "raza":"Birmano",
@@ -81,6 +89,7 @@
             "id":"2"
         },
         {   
+            "tipo":"gato",
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978340/mascotas/Kity_jz33dq.png",
             "nombre":"kity",
             "raza":"Bombay",
@@ -94,6 +103,7 @@
             "id":"3"
         },
         {   
+            "tipo":"gato",
             "img":"https://res.cloudinary.com/dpyo5aklw/image/upload/v1649978318/mascotas/Bombon_wb2umy.png",
             "nombre":"Bombon",
             "raza":"Gato Americano",
